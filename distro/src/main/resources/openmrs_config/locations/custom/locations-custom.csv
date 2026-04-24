@@ -1,0 +1,4 @@
+Uuid,Void/Retire,Name,Description,Parent,Tag|Login Location,Tag|Visit Location,Tag|Facility Location,Tag|Queue Location,Tag|Admission Location,Tag|Appointment Location,Tag|Transfer Location,Address 1,Address 2,Address 3,Address 4,Address 5,Address 6,City/Village,County/District,State/Province,Postal Code,Country,_order:9999
+7281fbcc-a719-4d7c-8460-f458f0bbfb2d,,Kondavil,Kondavil,,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,,,,,,,,
+aaf935e5-9942-444a-bdc9-e78cc183627a,,Clinic 2,Clinic 2,,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,,,,,,,,
+acedca84-5c68-46a4-aa62-553e6a344f01,,Clinic 3,Clinic 3,,TRUE,TRUE,TRUE,TRUE,,TRUE,,,,,,,,,,,,,
